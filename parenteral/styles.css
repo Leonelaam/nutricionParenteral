@@ -1,0 +1,14 @@
+
+.colorLetra{
+    color:rgb(255, 0, 140);
+}
+
+.logo{
+    width: 3rem;
+    height: 3rem;
+}
+.letrasLogo{
+    font-size: medium;
+    color: rgb(22, 64, 192);
+}
+
